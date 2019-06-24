@@ -18,4 +18,4 @@ The decision of the no. of clusters that can best depict different groups can be
   
 Hierarchical clustering can’t handle big data well but K Means clustering can. This is because the time complexity of K Means is linear i.e. O(n) while that of hierarchical clustering is quadratic i.e. O(n2).
 
-As a part of the course of Machine Learning from Udemy, I have implemeted both algorithms using Python and R. The data is for different customers and based on different paramters(for e.g., Spending Score) we specify the group to which the customers belong.
+As a part of the course of Machine Learning from Udemy, this section contains implemetation of both algorithms using Python and R. The data is for different customers and based on different paramters(for e.g., Spending Score) we specify the group to which the customers belong.
